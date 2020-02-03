@@ -1,1 +1,2 @@
-alert("bonjour monde")
+alert("bonjour monde");
+alert("juste pour comprendre")
